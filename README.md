@@ -1,0 +1,1 @@
+A few projects with an emphasis on good OOP principles, future maintenance and readability

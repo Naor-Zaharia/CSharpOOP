@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3B8AA34E-0B10-4416-A1DB-318F9C4C9388}|Default">
+  <MonoDevelop.Ide.ItemProperties.B20__Ex02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex02" expanded="True">
+            <Node name="B20_Ex02" expanded="True">
+              <Node name="GameInterface" expanded="True" />
+              <Node name="GameObject" expanded="True">
+                <Node name="Board.cs" selected="True" />
+              </Node>
+              <Node name="GameUtils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

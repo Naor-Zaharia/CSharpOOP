@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{EA8D462C-FC0F-4759-8751-BAA4F253FC65}|Default">
+  <MonoDevelop.Ide.ItemProperties.B20__Ex05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex05" expanded="True">
+            <Node name="B20_Ex05" expanded="True">
+              <Node name="UserInterface" expanded="True">
+                <Node name="ButtonInMemoryGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

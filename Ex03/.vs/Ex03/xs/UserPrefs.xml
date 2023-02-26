@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BCE7F353-96BD-41F4-B5FD-83DC2FF0E166}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex03" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Ex03.ConsoleUI" expanded="True">
+              <Node name="UI" expanded="True" />
+              <Node name="UtilsUI" expanded="True" />
+            </Node>
+            <Node name="Ex03.GarageLogic" expanded="True">
+              <Node name="Garage" expanded="True">
+                <Node name="Garage.cs" selected="True" />
+              </Node>
+              <Node name="Vehicle" expanded="True" />
+              <Node name="VehicleParts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex03.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
